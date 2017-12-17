@@ -1,1 +1,2 @@
 The second file.
+The new insert line.
