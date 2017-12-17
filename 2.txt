@@ -2,3 +2,4 @@ The second file.
 The second file.The new insert line.
 
 The 2 file.The new insert line.
+The 3 file.The new insert line.
